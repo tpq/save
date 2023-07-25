@@ -1,0 +1,17 @@
+Package: save
+Title: Simplify File-Saving for Data & Plots
+Version: 0.0.1
+Authors@R: person("Thom", "Quinn", email = "contacttomquinn@gmail.com", role = c("aut", "cre"))
+Description: The "Save" package is an experimental tool designed to simplify
+ file-saving tasks for data analysis and visualization. It offers methods like
+ csv, text, and plot to save data, text, and plot outputs with ease. As an
+ experimental package, it aims to provide a user-friendly experience while
+ exploring file-saving options. Please note that this package is still under
+ development and may undergo changes in future releases.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+Imports:
+    ggplot2,
+    R6
