@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 The `save` package is an experimental tool designed to simplify file-saving tasks for data analysis and visualization. It offers methods like csv, text, and plot to save data, text, and plot outputs with ease. As an experimental package, it aims to provide a user-friendly experience while exploring file-saving options. Please note that this package is still under development and may undergo changes in future releases.
 
-You can install the development version of save like so:
+You can install the development version of `save` like so:
 
 ``` r
 devtools::install_github("tpq/save")

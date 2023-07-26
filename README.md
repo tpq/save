@@ -14,7 +14,7 @@ experience while exploring file-saving options. Please note that this
 package is still under development and may undergo changes in future
 releases.
 
-You can install the development version of save like so:
+You can install the development version of `save` like so:
 
 ``` r
 devtools::install_github("tpq/save")
